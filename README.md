@@ -1,2 +1,2 @@
-#analytic_t1
-print("Hello world")
+# analytic_t1
+
